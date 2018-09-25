@@ -25,7 +25,7 @@ public class Calculator implements MouseListener {
 
 	private void initializeGUI(){
 		JFrame fenetre = new JFrame("Calculator");
-		fenetre.setSize(300,200);
+		fenetre.setPreferredSize(new Dimension(300,200));
 		fenetre.setTitle("Calculator");
 		fenetre.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
