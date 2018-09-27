@@ -4,7 +4,6 @@
  */
 
 import java.awt.Component;
-import java.awt.Frame;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.net.URL;
@@ -16,7 +15,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
-import java.io.IOException;
 
 public class SimonSays extends KeyAdapter {
 
