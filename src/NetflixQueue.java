@@ -23,7 +23,7 @@ public class NetflixQueue {
 	
 	public Movie getMovie(int movieNumber){
 		if(movieNumber < movies.size()) 
-		return movies.get(movieNumber);
+			return movies.get(movieNumber);
 		else System.err.println("That index is larger than the movie queue. Pass a smaller number to the getMovie() method.");
 		return null;
 	}
