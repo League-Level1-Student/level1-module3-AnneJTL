@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="src/gridworld.jar"/>
 	<classpathentry kind="lib" path="twitter4j-core-3.0.5.jar"/>
 	<classpathentry kind="lib" path="commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Anne_Pro/JoinTheLeague/JavaCode/league-jars/gridworld.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
